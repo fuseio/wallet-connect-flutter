@@ -1,8 +1,8 @@
 package com.ftsafe.walletConnect.wallet_connect_flutter;
 
 public interface CommonInfo {
-    String APP_NAME = "MYKEY";
-    String APP_DESCRIPTION = "MYKEY Lab";
-    String APP_URL = "https://mykey.org";
-    String APP_ICON_URL = "https://cdn.mykey.tech/mykey-website/static/img/favicon-32.ico";
+    String APP_NAME = "fuse.cash";
+    String APP_DESCRIPTION = "fuse.cash";
+    String APP_URL = "https://fuse.cash";
+    String APP_ICON_URL = "https://rewards.fuse.io/images/favicons/favicon.ico";
 }

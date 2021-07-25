@@ -7,7 +7,7 @@ public class SwiftWalletConnectFlutterPlugin: NSObject,FlutterStreamHandler,Flut
     
     
     var interactor: WCInteractor?
-    let clientMeta = WCPeerMeta(name: "MYKEY", url: "https://mykey.org",description:"MYKEY Lab" ,icons: ["https://cdn.mykey.tech/mykey-website/static/img/favicon-32.ico"])
+    let clientMeta = WCPeerMeta(name: "fuse.cash", url: "https://fuse.cash",description:"fuse.cas" ,icons: ["https://rewards.fuse.io/images/favicons/favicon.ico"])
  
     var eventSink: FlutterEventSink?
      
